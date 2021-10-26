@@ -1,4 +1,4 @@
-# [Vasily.su's calculator](http://vasily.su/calculator-game) cheat script
+# @[VasilyKrylov](https://github.com/VasilyKrylov)'s [calculator](http://vasily.su/calculator-game) cheat script
 
 ## Как установить:
  - Установите Tampermonkey
